@@ -1,0 +1,30 @@
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\fanta\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\bin\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\Новая папка\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
